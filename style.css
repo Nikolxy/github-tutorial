@@ -1,4 +1,5 @@
 body {
-  background-color: black;
-  counter-reset: 50px;
+  background-color: rgb(255, 247, 247);
+
+  font-size: larger;
 }
