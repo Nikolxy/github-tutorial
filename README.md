@@ -1,2 +1,0 @@
-# github-tutorial
-test repository
